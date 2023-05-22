@@ -3,8 +3,25 @@
 
 
 body {
-  background-color: antiquewhite;
-  color: brown;
+  background-color: rgb(0, 0, 0);
   text-align: center;
   margin-top: 100px;
+}
+
+.header {
+  color: white;
+}
+
+.main {
+  color: white;
+}
+
+.setup .punch {
+  margin: 10px;
+  color: white;
+}
+
+.btn {
+  margin: 10px;
+  color: white;
 }
